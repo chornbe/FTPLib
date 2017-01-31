@@ -1,0 +1,12 @@
+bin\Debug\tester.exe
+bin\Debug\tester.pdb
+bin\Debug\FTPLib.dll
+bin\Debug\FTPLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\tester.exe
+obj\Debug\tester.pdb
+bin\Release\tester.exe
+bin\Release\FTPLib.dll
+bin\Release\FTPLib.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\tester.exe

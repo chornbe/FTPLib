@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[tester.csproj]
+SCC_Aux_Path = "\\brdel-fs1\development\VSS"
+SCC_Project_Name = "$/FTPLib/tester", NJSAAAAA

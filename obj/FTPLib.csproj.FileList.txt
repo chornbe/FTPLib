@@ -1,0 +1,8 @@
+..\..\builds\FTPLib.Debug\FTPLib.dll
+..\..\builds\FTPLib.Debug\FTPLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FTPLib.dll
+obj\Debug\FTPLib.pdb
+..\..\builds\FTPLib\FTPLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\FTPLib.dll

@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester", "tester\tester.csproj", "{2DEAEACD-9CB2-48B6-88A9-163CC6EB5634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPLib", "FTPLib.csproj", "{ADF57427-B5C2-47FD-943A-A32630A8A17B}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {26E2F221-BF51-4183-807E-56E0F2F93A12}
+		SccProjectUniqueName1 = FTPLib.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName2 = tester\\tester.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = tester\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2DEAEACD-9CB2-48B6-88A9-163CC6EB5634}.Debug.ActiveCfg = Debug|.NET
+		{2DEAEACD-9CB2-48B6-88A9-163CC6EB5634}.Debug.Build.0 = Debug|.NET
+		{2DEAEACD-9CB2-48B6-88A9-163CC6EB5634}.Release.ActiveCfg = Release|.NET
+		{2DEAEACD-9CB2-48B6-88A9-163CC6EB5634}.Release.Build.0 = Release|.NET
+		{ADF57427-B5C2-47FD-943A-A32630A8A17B}.Debug.ActiveCfg = Debug|.NET
+		{ADF57427-B5C2-47FD-943A-A32630A8A17B}.Debug.Build.0 = Debug|.NET
+		{ADF57427-B5C2-47FD-943A-A32630A8A17B}.Release.ActiveCfg = Release|.NET
+		{ADF57427-B5C2-47FD-943A-A32630A8A17B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
